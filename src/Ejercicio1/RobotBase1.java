@@ -1,16 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Ejercicio1;
-
 
 import becker.robots.*;
 import java.util.Scanner;
-/** 
- * Practica de los conceptos de Programacion Estructurada
- * @author Fabian Andres Giraldo */
+/*
+Grupo conformado por:
+Germán Muñoz
+Diego Rubiano
+Samuel Salgado
+Julian Santos
+Josef Sarmiento
+*/
 public class RobotBase1
 {   
        //Declaracion de Variables -- Forma temporal - No es buena practica tener

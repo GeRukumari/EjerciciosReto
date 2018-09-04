@@ -2,11 +2,14 @@ package Ejercicio3;
 
 import becker.robots.*;
 import java.util.Arrays;
-
-
-/** 
- * Practica de los conceptos de Programacion Estructurada
- * @author Fabian Andres Giraldo */
+/*
+Grupo conformado por:
+Germán Muñoz
+Diego Rubiano
+Samuel Salgado
+Julian Santos
+Josef Sarmiento
+*/
 public class RobotBase3
 {    
        //Declaracion de Variables -- Forma temporal - No es buena practica tener
