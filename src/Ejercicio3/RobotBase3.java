@@ -1,4 +1,4 @@
-package unal.poo.practica;
+package Ejercicio3;
 
 import becker.robots.*;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.Arrays;
 /** 
  * Practica de los conceptos de Programacion Estructurada
  * @author Fabian Andres Giraldo */
-public class RobotBase
+public class RobotBase3
 {    
        //Declaracion de Variables -- Forma temporal - No es buena practica tener
        //variables estaticas
@@ -141,8 +141,6 @@ if(Arrays.equals(temp,num8))
 if(Arrays.equals(temp,num9))
     System.out.println("El "+k+"° escaneado es: 9");
 
+        }
+    }
 }
-
-}
-
-	}
